@@ -3,10 +3,10 @@ entries:
   workshop-runtimes:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-07-02T04:24:08.654970737Z"
+    created: "2026-07-02T13:42:48.923823781Z"
     description: Complete runtime stack for workshop environments - deploys MinIO,
       Kafka, Tekton, and KEDA resources into user-devspaces namespaces
-    digest: 77d2cdd9fce8bf21850622c054ed9c53cfb681a71fac06a7af497992db191b0f
+    digest: 30af3cf15f5e10cd2590019db738c80b876bbba5377f19bd6c19b5f684416fe1
     keywords:
     - workshop
     - openshift
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://na-launch-workshop.github.io/platform-workshop-runtimes/workshop-runtimes-0.1.0.tgz
     version: 0.1.0
-generated: "2026-07-02T04:24:08.653721924Z"
+generated: "2026-07-02T13:42:48.922551651Z"
