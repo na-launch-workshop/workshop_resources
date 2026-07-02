@@ -70,7 +70,7 @@ helm upgrade <release-name> . -n <user>-devspaces
 
 ### Uninstall
 
-Remove all provisioned resources:
+Remove all provisioned resources :
 
 ```bash
 helm uninstall <release-name> -n <user>-devspaces
